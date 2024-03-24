@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Pothole or Not?
+description: Use the power of AI to detect potholes in your images
+
+author:
+  name: Kam Lasater
