@@ -6,7 +6,7 @@ def greet(name):
 iface = gr.Interface(fn=greet, inputs="text", outputs="text")
 
 launch_options = {
-    "share": False,
+    # "share": False,
 }
 
 iface.launch(**launch_options)
